@@ -4,7 +4,7 @@
 
 # 视觉与具身智能研究地图
 
-![Vision & Embodied AI Research Map](assets/cover.png)
+![Vision & Embodied AI Research Map](cover.png)
 
 **From Visual Perception to Embodied Action**
 **从视觉感知到具身行动**
